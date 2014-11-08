@@ -1,0 +1,1 @@
+<center><div class="btn btn-default">©2014 · Powered by <a href="http://www.woshiguang.com/" target="_blank">WoShiGuang</a></div></center>
